@@ -1,1 +1,1 @@
-# nodejs-firebase-push-notification-fro-android-device
+# Nodejs firebase push notification for android device
