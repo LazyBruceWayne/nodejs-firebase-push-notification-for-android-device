@@ -1,6 +1,6 @@
 # Nodejs firebase push notification for android device
 
-
+```js
 let FCM = require('fcm-node');
 import config from '../config'
 var apn = require('apn');
@@ -50,3 +50,5 @@ class PushNotification {
 
 }
 module.exports = PushNotification
+
+```
